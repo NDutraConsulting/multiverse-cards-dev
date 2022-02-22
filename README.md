@@ -1,64 +1,60 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+<p align="center"><a href="https://multiversemania.com" target="_blank"><img src="https://multiversemania.com/img/logo.png" width="145"></a></p>
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
 
-## About Laravel
+## About Multiverse Cards
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Multiverse Cards is a Madlib inspired, endless expansion for exploring the Multiverse of possibilities!
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+You can think of Multiverse Cards as the scenarios and Now cards as the dials on the Multiverse Machine.  Hoomans can use MultiverseCards.com web interface to explore, create and share scenarios from the infinite Multiverse.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+For family friendly game play you can download or buy Multiverse Go packs (Coming Soon)
+-or-
+If you would like a more ruckus filled adult game [download](https://cdn.sanity.io/files/vc07edlh/production/9adb950ac7d06132ce88def7caadf0ce6a361b94.pdf) the free cards against humanity white cards.
 
-## Learning Laravel
+
+## Develop Multiverse Cards Features
+Multiverse Cards is built with Laravel.
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
 If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
-## Laravel Sponsors
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+### Feature Map
 
-### Premium Partners
+- <span style="color:orange;">Public Card Viewer (Under Development)</span>
+- Access Control
+- Password Reset
+- Account View
+- Card Creator
+- Admin Card Reviewer
+  - Internal Status Mapping
+    - New Card, Pending Peer Review 1, Pending Peer Review 2, Pending Peer Review 3, Approved, Public, Private, Blocked, Needs Revision, Grammar Error, Format Error, Commented Error, Forked
+- User Card Reviewer
+  - Card Preferences
+    - Parental Controls
+    - Privacy
+- Deck Creator
+  - Deck Editor (Add | Remove Cards)
+  - Deck Selector (Launch the Card Viewer)
+- Card Sharing
+- Card Reactions
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
 
 ## Contributing
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+Thank you for considering contributing to the Multiverse Cards application!
+The contribution guide is under development.
+Please send inquiries to [nikko@multiversemania.net](mailto:nikko@multiversemania.net)
 
 ## Code of Conduct
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+In order to ensure that the Multiverse Cards community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within Multiverse Cards, please send an e-mail to Nikko Dutra via [nikko@multiversemania.net](mailto:nikko@multiversemania.net). All security vulnerabilities will be promptly addressed.
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+No Open Source license currently exists. All Rights Reserved by Nikko Dutra.
