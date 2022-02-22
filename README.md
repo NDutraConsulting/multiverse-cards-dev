@@ -22,7 +22,7 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 
 ### Feature Map
 
-- ```diff !Public Card Viewer (Under Development)```
+- `Public Card Viewer (Under Development)`
 - Access Control
 - Password Reset
 - Account View
