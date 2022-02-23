@@ -19,7 +19,7 @@ return new class extends Migration
             $table->text('content');
             $table->bigInteger('answer_count');
             $table->bigInteger('internal_status_id');
-            $table->enum('content_rating_id', ['family', 'teen', 'n-17', 'nsfw'])->nullable();
+            $table->enum('content_rating_id', ['family', 'teen', 'nc-17', 'nsfw', 'x'])->nullable();
             $table->timestamp('last_used_at')->nullable();
             $table->timestamps();
         });
