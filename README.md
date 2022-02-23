@@ -21,7 +21,7 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 
 
 ### Phase 1 Feature Map
-#### The following 4 features can be developed by four developers in parallel.
+#### The following 4 features are being developed in parallel on independent branches.
 - `Public Card Viewer (Under Development)`
 - Access Control
   - Privilege definitions and mapping
